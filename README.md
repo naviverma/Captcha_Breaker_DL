@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Captcha_Breaker_DL
 =======
 # TEAM 44.
@@ -94,4 +93,4 @@ Follow these instructions to manually execute each part of the CAPTCHA project p
     This opens the `output_final.txt` file in Vim for review.
 
 After completing all these steps, the pipeline for the CAPTCHA project will be executed successfully.
->>>>>>> 4280e04 (Captcha Breakeddd)
+
