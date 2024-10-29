@@ -1,0 +1,2 @@
+Train: 21841.21 seconds
+# Approx 6 hours

@@ -1,0 +1,6 @@
+Team 44 :
+No of Team Members : 1
+Navdeep Singh.
+TCD ID : 22331003
+Alloted Raspberry pi : rasp-044.berry.scss.tcd.ie
+
