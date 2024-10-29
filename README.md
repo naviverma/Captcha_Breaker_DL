@@ -1,5 +1,4 @@
 # Captcha_Breaker_DL
-=======
 # TEAM 44.
 
 #### Team Members:  
